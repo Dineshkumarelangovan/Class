@@ -1,0 +1,1 @@
+select * from RAW.GLOBAL_MART.ORDERS
